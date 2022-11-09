@@ -84,6 +84,17 @@ export default function Home() {
             <a
               target="_BLANK"
               rel="noreferrer noopener"
+              href="https://asier.creal.es"
+            >
+              Asier
+            </a>
+            <hr />
+            <h3>PWA para manejar una clase o grupo de personas</h3>
+          </div>
+          <div>
+            <a
+              target="_BLANK"
+              rel="noreferrer noopener"
               href="https://genio.me"
             >
               Genio Me
