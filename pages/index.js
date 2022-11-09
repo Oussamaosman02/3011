@@ -142,6 +142,17 @@ export default function Home() {
             <a
               target="_BLANK"
               rel="noreferrer noopener"
+              href="https://js.3011.site"
+            >
+              Terminal JavaScript
+            </a>
+            <hr />
+            <h3>Terminal web para usar JavaScript</h3>
+          </div>
+          <div>
+            <a
+              target="_BLANK"
+              rel="noreferrer noopener"
               href="https://www.creadordigital0.com"
             >
               Creador Digital 0
