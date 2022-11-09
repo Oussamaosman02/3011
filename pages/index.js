@@ -174,7 +174,7 @@ export default function Home() {
               rel="noreferrer noopener"
               href="https://ijotaka.com"
             >
-              IJotaKa
+              IJotaKa COM
             </a>
             <hr />
             <h3>Web de libros que he leido o quiero leer</h3>
@@ -185,7 +185,7 @@ export default function Home() {
               rel="noreferrer noopener"
               href="https://ijotaka.es"
             >
-              IJotaKa
+              IJotaKa ES
             </a>
             <hr />
             <h3>Web de Agencia digital de prueba</h3>
