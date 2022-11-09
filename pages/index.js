@@ -161,12 +161,23 @@ export default function Home() {
             <a
               target="_BLANK"
               rel="noreferrer noopener"
-              href="https://www.ijotaka.es"
+              href="https://ijotaka.com"
             >
               IJotaKa
             </a>
             <hr />
             <h3>Web de libros que he leido o quiero leer</h3>
+          </div>
+          <div>
+            <a
+              target="_BLANK"
+              rel="noreferrer noopener"
+              href="https://ijotaka.es"
+            >
+              IJotaKa
+            </a>
+            <hr />
+            <h3>Web de Agencia digital de prueba</h3>
           </div>
           <div>
             <a
