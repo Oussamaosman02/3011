@@ -6,9 +6,24 @@ const sitios = [
     desc: "Muro de webs hechas por mi",
   },
   {
+    link: "https://astro.3011.site",
+    name: "3011 Astro",
+    desc: "Webs hechas por mi",
+  },
+  {
+    link: "https://notitia.cat",
+    name: "Notitia",
+    desc: "Web de información e investigación propia",
+  },
+  {
     link: "https://creal.es",
     name: "CReal",
     desc: "Conectar a los jovenes de Ciudad real",
+  },
+  {
+    link: "https://asier.creal.es",
+    name: "Asier",
+    desc: "PWA para manejar una clase o grupo de personas",
   },
   {
     link: "https://tonyashoes.creal.store",
@@ -26,19 +41,24 @@ const sitios = [
     desc: "Tienda de ropa administrada en CReal Store",
   },
   {
-    link: "https://notitia.cat",
-    name: "Notitia",
-    desc: "Web de información e investigación propia",
-  },
-  {
-    link: "https://asier.creal.es",
-    name: "Asier",
-    desc: "PWA para manejar una clase o grupo de personas",
-  },
-  {
     link: "https://genio.me",
     name: "Genio Me",
     desc: "Recursos para desarroladores",
+  },
+  {
+    link: "https://ijotaka.com",
+    name: "IJotaKa COM",
+    desc: "Web de libros que he leido o quiero leer",
+  },
+  {
+    link: "https://homosapiens.site",
+    name: "Nostradamus",
+    desc: "Predicciones de Nostradamus año a año",
+  },
+  {
+    link: "https://js.3011.site",
+    name: "Terminal JavaScript",
+    desc: "Terminal web para usar JavaScript",
   },
   {
     link: "https://www.mejoressmartphones.online",
@@ -56,11 +76,6 @@ const sitios = [
     desc: "SEO estrategias y trucos",
   },
   {
-    link: "https://js.3011.site",
-    name: "Terminal JavaScript",
-    desc: "Terminal web para usar JavaScript",
-  },
-  {
     link: "https://www.creadordigital0.com",
     name: "Creador Digital 0",
     desc: "Web para subir creaciones digitales",
@@ -76,19 +91,9 @@ const sitios = [
     desc: "Web de la plantilla del Barça",
   },
   {
-    link: "https://ijotaka.com",
-    name: "IJotaKa COM",
-    desc: "Web de libros que he leido o quiero leer",
-  },
-  {
     link: "https://ijotaka.es",
     name: "IJotaKa ES",
     desc: "Web de Agencia digital de prueba",
-  },
-  {
-    link: "https://homosapiens.site",
-    name: "Nostradamus",
-    desc: "Predicciones de Nostradamus año a año",
   },
   {
     link: "https://tiktokbreach.netlify.app",
@@ -99,6 +104,11 @@ const sitios = [
     link: "https://nextjs-push.vercel.app",
     name: "Notificaciones NextJs",
     desc: "prueba de notificaciones push en Next Js",
+  },
+  {
+    link: "https://terminal.3011.site",
+    name: "Web like Terminal",
+    desc: "Web con interfaz de terminal",
   },
   {
     link: "https://velta.es",
