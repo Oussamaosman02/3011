@@ -1,6 +1,6 @@
 import Head from 'next/head'
 import styles from '../styles/Home.module.css'
-
+import data from './api/sites.json'
 export default function Home ({ data }) {
   return (
     <div className={styles.container}>
@@ -32,14 +32,4 @@ export default function Home ({ data }) {
       </main>
     </div>
   )
-}
-
-export async function getServerSideProps () {
-  const res = await fetch('https://3011.site/api/sites')
-  const data = await res.json()
-  return {
-    props: {
-      data
-    }
-  }
 }
