@@ -11,19 +11,24 @@ const sitios = [
     desc: "Webs hechas por mi",
   },
   {
+    link: "https://genio.me",
+    name: "Genio Me",
+    desc: "Recursos para desarrolladores",
+  },
+  {
     link: "https://notitia.cat",
     name: "Notitia",
     desc: "Web de información e investigación propia",
   },
   {
-    link: "https://creal.es",
-    name: "CReal",
-    desc: "Conectar a los jóvenes de Ciudad real",
-  },
-  {
     link: "https://asier.creal.es",
     name: "Asier",
     desc: "PWA para manejar una clase o grupo de personas",
+  },
+  {
+    link: "https://homosapiens.site",
+    name: "Nostradamus",
+    desc: "Predicciones de Nostradamus año a año",
   },
   {
     link: "https://tonyashoes.creal.store",
@@ -41,19 +46,9 @@ const sitios = [
     desc: "Tienda de ropa administrada en CReal Store",
   },
   {
-    link: "https://genio.me",
-    name: "Genio Me",
-    desc: "Recursos para desarrolladores",
-  },
-  {
     link: "https://homosapiens.website",
     name: "Libros",
     desc: "Web de libros que he leído o quiero leer",
-  },
-  {
-    link: "https://homosapiens.site",
-    name: "Nostradamus",
-    desc: "Predicciones de Nostradamus año a año",
   },
   {
     link: "https://js.3011.site",
@@ -109,6 +104,11 @@ const sitios = [
     link: "https://tiktokbreach.netlify.app",
     name: "TikTok Breach",
     desc: "Información sobre la falsa filtración de TikTok",
+  },
+  {
+    link: "https://creal.es",
+    name: "CReal",
+    desc: "Conectar a los jóvenes de Ciudad real",
   },
   {
     link: "https://nextjs-push.vercel.app",
