@@ -1,7 +1,7 @@
 import Head from 'next/head'
 import styles from '../styles/Home.module.css'
 import data from './api/sites.json'
-export default function Home ({ data }) {
+export default function Home () {
   return (
     <div className={styles.container}>
       <Head>
@@ -12,7 +12,6 @@ export default function Home ({ data }) {
         />
         <link rel='icon' href='/favicon.ico' />
       </Head>
-
       <h1>30/11</h1>
       <main className={styles.main}>
         <div className={styles.cont}>
