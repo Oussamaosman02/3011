@@ -1,6 +1,6 @@
 import Head from 'next/head'
 import styles from '../styles/Home.module.css'
-import data from './api/sites.json'
+import { sitios as data } from './api'
 export default function Home () {
   return (
     <div className={styles.container}>
