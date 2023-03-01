@@ -31,6 +31,11 @@ export const sitios = [
     desc: 'Predicciones de Nostradamus año a año'
   },
   {
+    link: 'http://imapi.infinityfreeapp.com',
+    name: 'IMAPI',
+    desc: 'Api de imágenes hecha en PHP'
+  },
+  {
     link: 'https://tonyashoes.creal.store',
     name: 'Tonyashoes (CReal)',
     desc: 'Tienda de zapatos personalizables (3D)'
@@ -64,6 +69,14 @@ export const sitios = [
     link: 'https://podcas.website',
     name: 'Podcas',
     desc: 'Todo sobre podcasts'
+  }, {
+    link: 'https://api.moviles.fun',
+    name: 'Api Moviles.Fun',
+    desc: 'Api para la web de Wordpress moviles.fun'
+  }, {
+    link: 'https://php-tutorial-omega.vercel.app',
+    name: 'PHP Tutorial',
+    desc: 'Web de tutorial básico de PHP'
   },
   {
     link: 'https://www.miseo.cf',
@@ -119,6 +132,10 @@ export const sitios = [
     link: 'https://terminal.3011.site',
     name: 'Web like Terminal',
     desc: 'Web con interfaz de terminal'
+  }, {
+    link: 'https://semaforo.creal.es',
+    name: 'Semáforo CReal',
+    desc: 'Web de los tiempos de un semáforo'
   },
   {
     link: 'https://sad-resumenes-md.vercel.app',
