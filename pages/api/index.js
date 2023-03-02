@@ -74,9 +74,13 @@ export const sitios = [
     name: 'Api Moviles.Fun',
     desc: 'Api para la web de Wordpress moviles.fun'
   }, {
-    link: 'https://php-tutorial-omega.vercel.app',
-    name: 'PHP Tutorial',
+    link: 'https://php-tutorial-old.vercel.app',
+    name: 'PHP Tutorial (antiguo)',
     desc: 'Web de tutorial básico de PHP'
+  }, {
+    link: 'https://php.3011.site',
+    name: 'Tutotial PHP',
+    desc: 'Tutorial básico de PHP'
   },
   {
     link: 'https://www.miseo.cf',
